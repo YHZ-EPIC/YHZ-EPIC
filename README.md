@@ -22,3 +22,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yhz-epic&show_icons=true&locale=en" alt="yhz-epic" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yhz-epic&" alt="yhz-epic" /></p>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yhz-epic&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yhz-epic&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yhz-epic&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
