@@ -1,5 +1,5 @@
 # Hey 👋, I'm Yasir Hussain
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
 
 <h3 align="left">A Passionate Computer Science Student</h3>
 
