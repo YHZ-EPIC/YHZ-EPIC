@@ -2,13 +2,12 @@
 
 <img align="right" height="350" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
 
-<h3 align="left">A Passionate Computer Science Student</h3>
+<h2 align="left">A Proud Computer Science Graduate ✅</h2>
+<h3 align="left">Interested in Full Stack Development ✅</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Full Stack Development<br>
-💬 Ask me about ReactJS, ExpressJS, MongoDB, SQL<br>
+💬 Ask me about ReactJS, NodeJS, ExpressJS, MongoDB, SQL<br>
 📫 How to reach me yasir.hussain2001@outlook.com<br>
-⚡ Fun Fact: In 1482, Leonardo Da Vinci created the First Resume.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasir-hussain-3378bb209) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13317618/yasirhussain) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yhz-epic) 
