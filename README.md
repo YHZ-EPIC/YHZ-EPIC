@@ -2,7 +2,7 @@
 
 <img align="right" height="350" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
 
-<h3 align="left">A Proud Computer Science Graduate</h3>
+<h3 align="left">Computer Science Graduate</h3>
 <h3 align="left">Interested in Full Stack Development</h3>
 
 # 💫 About Me:
