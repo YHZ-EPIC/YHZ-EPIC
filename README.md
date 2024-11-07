@@ -10,7 +10,7 @@
 📫 How to reach me yasir.hussain2001@outlook.com<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasir-hussain-3378bb209) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13317618/yasirhussain) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yhz-epic) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasir-hussain-3378bb209)
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yhz-epic&theme=radical&hide_border=false)<br/>
