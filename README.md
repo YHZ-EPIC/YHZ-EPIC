@@ -9,8 +9,6 @@
 💬 Ask me about ReactJS, NodeJS, ExpressJS, MongoDB, SQL<br>
 📫 How to reach me yasir.hussain2001@outlook.com<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasir-hussain-3378bb209)
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yhz-epic&theme=radical&hide_border=false)<br/>
